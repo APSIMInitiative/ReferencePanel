@@ -10,6 +10,18 @@ DRAFT MINUTES - not ready for review
 ### 1.1 Welcome/Apologies
 
   Welcome from Pembleton, Keith (USQ)
+  
+  Members:
+  Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF);  Kouadio, Louis (USQ); Pembleton, Keith (USQ)Lieffering, Mark (AgResearch);  Wang, Enli (A&F, Black Mountain); Chauhan, Yash (DAF); van Oosterom, Erik (UQ)deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Holzworth, Dean (A&F, Toowoomba); Archontoulis, Sotirios (Iowa State University); Snow, Val (AgResearch); Brown, Hamish (Plant and Food) 
+  
+# Members
+
+# Apologies/Not in attendance
+
+# Date
+
+Tuesday 21/5/19; 9:30AM AEST
+
 
 ### 1.2 Review Minutes and Actions
   Attached - [2019-03 Minutes](https://confluence.csiro.au/display/APSIM/2019-03+Minutes)
