@@ -3,22 +3,23 @@
 DRAFT MINUTES - not ready for review
 
 
-
-
 ## Agenda Item 
 
 ### 1.1 Welcome/Apologies
 
-  Welcome from Pembleton, Keith (USQ)
-  
-  Members:
-   Kouadio, Louis (USQ); Pembleton, Keith (USQ)Lieffering, Mark (AgResearch);  Wang, Enli (A&F, Black Mountain); Chauhan, Yash (DAF); deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Archontoulis, Sotirios (Iowa State University); 
   
 ### Members
 
-Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF); Brown, Hamish (Plant and Food);   Holzworth, Dean (A&F, Toowoomba); Snow, Val (AgResearch);
-
+Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF); Brown, Hamish (Plant and Food);   Holzworth, Dean (A&F, Toowoomba); Snow, Val (AgResearch);  Lieffering, Mark (AgResearch);d eVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Chauhan, Yash (DAF); Kouadio, Louis (USQ); Pembleton, Keith (USQ)  
+  
 ### Apologies/Not in attendance
+
+Archontoulis, Sotirios (Iowa State University); Wang, Enli (A&F, Black Mountain); 
+
+
+### Welcome from Pembleton, Keith (USQ)
+  
+
 
 ### Date
 
