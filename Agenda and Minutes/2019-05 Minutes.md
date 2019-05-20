@@ -84,7 +84,7 @@ Tuesday 21/5/19; 9:30AM AEST
   
   Updates; 
   Hamish = barley model article
-  Rogerio - outstanding article
+  <br>Rogerio - outstanding article
   
   
   new articles<br>Discussion on RG Trial
