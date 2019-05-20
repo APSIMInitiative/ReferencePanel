@@ -14,11 +14,11 @@ DRAFT MINUTES - not ready for review
   Members:
   Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF);  Kouadio, Louis (USQ); Pembleton, Keith (USQ)Lieffering, Mark (AgResearch);  Wang, Enli (A&F, Black Mountain); Chauhan, Yash (DAF); van Oosterom, Erik (UQ)deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Holzworth, Dean (A&F, Toowoomba); Archontoulis, Sotirios (Iowa State University); Snow, Val (AgResearch); Brown, Hamish (Plant and Food) 
   
-# Members
+### Members
 
-# Apologies/Not in attendance
+### Apologies/Not in attendance
 
-# Date
+### Date
 
 Tuesday 21/5/19; 9:30AM AEST
 
