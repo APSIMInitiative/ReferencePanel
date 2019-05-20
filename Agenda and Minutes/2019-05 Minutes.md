@@ -77,17 +77,27 @@ Tuesday 21/5/19; 9:30AM AEST
   
   Agreement on APSIM Week Dates
   
+  Doodle poll
+  Next steps
+  
 ## 4. Website/Communications	
   
-  Updates; new articles<br>Discussion on RG Trial
+  Updates; 
+  Hamish = barley model article
+  
+  
+  new articles<br>Discussion on RG Trial
   
 ## 5. Other Business
 
-  Update from Brown, Hamish (Plant and Food) on the "Crop Model word description for APSIM"
+  Update from Brown, Hamish (Plant and Food) on the "Crop Model word description for APSIM" - stemming from the autodoc generation discussion
   
   [acknowledgement guidelines](https://github.com/APSIMInitiative/ApsimX/issues/3813#issuecomment-488866569)
   
   Paper with acknowledgment - Accounting for soil moisture improves prediction of flowering time in chickpea and wheat https://rdcu.be/bCTPE 
+  
+  Development Plan - finialise for 18/19.
+  New version for 19/20
 
 ## Next meeting
 
