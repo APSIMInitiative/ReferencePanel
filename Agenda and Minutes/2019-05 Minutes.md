@@ -12,7 +12,7 @@ DRAFT MINUTES - not ready for review
   Welcome from Pembleton, Keith (USQ)
   
   Members:
-  Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF);  Kouadio, Louis (USQ); Pembleton, Keith (USQ)Lieffering, Mark (AgResearch);  Wang, Enli (A&F, Black Mountain); Chauhan, Yash (DAF); van Oosterom, Erik (UQ)deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Holzworth, Dean (A&F, Toowoomba); Archontoulis, Sotirios (Iowa State University); Snow, Val (AgResearch); Brown, Hamish (Plant and Food) 
+  Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF);  Kouadio, Louis (USQ); Pembleton, Keith (USQ)Lieffering, Mark (AgResearch);  Wang, Enli (A&F, Black Mountain); Chauhan, Yash (DAF); deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Holzworth, Dean (A&F, Toowoomba); Archontoulis, Sotirios (Iowa State University); Snow, Val (AgResearch); Brown, Hamish (Plant and Food) 
   
 ### Members
 
