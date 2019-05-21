@@ -10,7 +10,7 @@ DRAFT MINUTES - not ready for review
   
 ### Members
 
-Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF); Brown, Hamish (Plant and Food);   Holzworth, Dean (A&F, Toowoomba); Snow, Val (AgResearch);  Lieffering, Mark (AgResearch);d eVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Chauhan, Yash (DAF); Kouadio, Louis (USQ); Pembleton, Keith (USQ)  
+Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF); Brown, Hamish (Plant and Food);   Holzworth, Dean (A&F, Toowoomba); Snow, Val (AgResearch);  Lieffering, Mark (AgResearch); deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Chauhan, Yash (DAF); Kouadio, Louis (USQ); Pembleton, Keith (USQ)  
   
 ### Apologies/Not in attendance
 
