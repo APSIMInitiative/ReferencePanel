@@ -97,7 +97,8 @@ Process - what do we do??
 
 ## 3.  Training	
   
-  Agreement on APSIM Week Dates
+  Week commencing 23 March
+  Sarah to start GitHub
   
   Doodle poll
   Next steps
