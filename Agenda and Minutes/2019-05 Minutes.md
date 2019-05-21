@@ -69,6 +69,18 @@ taken as done.
 ### 2.5  Update on Actions from AI-PFR Workshop - Nov 2018
 
  - Work through actions
+ 
+ amish 
+ 
+AI to consider the following five areas of potential future focus/priority at their Steering Committee meeting tomorrow and come back to PFR with a refined view as what future collaborative activity might look like.
+1.	Developing horticultural/perennial tree crop functionality in APSIM.
+2.	Climate change response functionality in APSIM.
+3.	Developing multi-functional landscape capability in APSIM.
+4.	Precision agriculture.
+5.	Considering high performance computing needs and potential implications.  Recommendation - First step would be to collate what everyone is doing.  To ensure APSIM Infrastruture can deal with the high perforamnce computer.  Keith to start Github repository
+
+
+
 
 ### 2.6 Software
 
