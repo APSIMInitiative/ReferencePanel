@@ -70,7 +70,7 @@ taken as done.
 
  - Work through actions
  
- amish 
+Hamish 
  
 AI to consider the following five areas of potential future focus/priority at their Steering Committee meeting tomorrow and come back to PFR with a refined view as what future collaborative activity might look like.
 1.	Developing horticultural/perennial tree crop functionality in APSIM.
@@ -84,11 +84,16 @@ AI to consider the following five areas of potential future focus/priority at th
 
 ### 2.6 Software
 
-  Move APSIM Classic into continuous release<br>Comment from Pete deV - For the forseeable future, the Apsim Classic release will remain at 7.10, and links to upgrade to the latest bugfix are available to developers only via the bootleg system on bob. This means registered users don't have a) knowlege of available bugfixes, and b) access to them. I'm proposing some sort of notification system to registered users: some of these bugfixes have serious impact. 
+Move APSIM Classic into continuous release<br>Comment from Pete deV - For the forseeable future, the Apsim Classic release will remain at 7.10, and links to upgrade to the latest bugfix are available to developers only via the bootleg system on bob. This means registered users don't have a) knowlege of available bugfixes, and b) access to them. I'm proposing some sort of notification system to registered users: some of these bugfixes have serious impact. 
   
   This may entail a list of registered users being kept on bob so that when (if?) a bugfix release is built, users are notified.
   
   The RP may wish to discuss how this continually changing version should be "referenced".
+
+
+Process - what do we do??
+
+
 
 ## 3.  Training	
   
