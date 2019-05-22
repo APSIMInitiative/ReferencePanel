@@ -126,5 +126,5 @@ Process - what do we do??
 ## Next meeting
 
   Discussion of Date as Keith Pembleton is unavailable for next 3 meetings. 
-  **ACTION**: Sarah to send out 3 doodle polls and send out new meeting requests.
+  <br>**ACTION**: Sarah to send out 3 doodle polls and send out new meeting requests.
   
