@@ -1,56 +1,62 @@
 # 2019-05 Minutes
 
-DRAFT MINUTES - not ready for review
-
+#### **DRAFT MINUTES - not ready for review**
 
 ## Agenda Item 
 
-### 1.1 Welcome/Apologies
-
-  
 ### Members
 
-Cleary, Sarah (A&F, St. Lucia); Brider, Jason (DAF); Brown, Hamish (Plant and Food);   Holzworth, Dean (A&F, Toowoomba); Snow, Val (AgResearch);  Lieffering, Mark (AgResearch); deVoil, Peter (UQ); Chenu, Karine (The University of Queensland);  Chauhan, Yash (DAF); Kouadio, Louis (USQ); Pembleton, Keith (USQ)  
+@HamishBrownPFR; @hol353; @jbrider; @kchenu; @Keith-Pembleton; @LouisAK; @MarkLieffering; @peter-devoil; @sarahcleary; @sno036; @yashvirchuauhan
   
 ### Apologies/Not in attendance
 
-Archontoulis, Sotirios (Iowa State University); Wang, Enli (A&F, Black Mountain); 
-
-
-### Welcome from Pembleton, Keith (USQ)
-  
+@sarchontoulis; @EnliWang
 
 
 ### Date
 
 Tuesday 21/5/19; 9:30AM AEST
 
+### Welcome from @Keith-Pembleton
+
+### 1.1 Welcome/Apologies
 
 ### 1.2 Review Minutes and Actions
   Attached - [2019-03 Minutes](https://confluence.csiro.au/display/APSIM/2019-03+Minutes)
-
-taken as done.
+<br>Taken as read and correct
 
 ## 2. Science/Software
 
 ### 2.1 Check for new APSIM Major Improvements
   
    GitHub MAJOR science issues since last RP meeting 
-   GitHub ALL science issues since last RP meeting
    
+   @Keith-Pembleton noted  new links since the last meeting. These were:
+   Simple Fruit Tree Model https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.
+   
+   **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banada model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
+   
+   CLEM - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
+   
+   AgPasture - https://github.com/APSIMInitiative/ApsimX/issues/3689 - see notes below
+      
 ### 2.2  Updates from RP on models and reviews 
   ALL issues tagging APSIM Initiative Reference Panel
   Models under development - https://github.com/APSIMInitiative/ApsimX/labels/major
   - Sorghum model - https://github.com/APSIMInitiative/ApsimX/issues/572
-    any others need noting or discussion?
+    - Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
-    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78)
+    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) - 
     - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069)
     - [CLEM](https://github.com/APSIMInitiative/ApsimX/issues/3575)
     
-    - any new models requiring review?<br>Models/Updates in release since last RP meeting
+    - New models requiring review 
       - [AgPasture](https://github.com/APSIMInitiative/ApsimX/issues/3689)
+     <br>**ACTION:**  @sarahcleary to contact Matt Harrison to see if he is happy to review.  
+       
+    <br>Models/Updates in release since last RP meeting
+    - none noted. 
     
 ### 2.3  Update from AI SC meeting in March
 
@@ -125,6 +131,6 @@ Process - what do we do??
 
 ## Next meeting
 
-  Discussion of Date as Keith Pembleton is unavailable for next 3 meetings. 
-  <br>**ACTION**: Sarah to send out 3 doodle polls and send out new meeting requests.
+  Discussion of Date as @Keith-Pembleton is unavailable for next 3 meetings. 
+  <br>**ACTION**: @sarahcleary to send out 3 doodle polls and send out new meeting requests.
   
