@@ -47,10 +47,11 @@ Tuesday 21/5/19; 9:30AM AEST
     - Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
-    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) - 
-    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069)
+    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) <br> Not further movement.  With Rob Zyskowski to repond to comments
+    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069) <br> RP confirmed that model is ready for release.  <br>**ACTION** Comment on GitHub to ask Rogerio to work with Dean.  
+    
     - [CLEM](https://github.com/APSIMInitiative/ApsimX/issues/3575)
-    <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). 
+    <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). Ask the CLEM team to contact Keith directly if they want to work through any of the issues he raisd.
     <br>**ACTION** (1) @APSIM RP reps to try and run CLEM and provide comment on issue. <br> (2) @sarahcleary to contact CLEM team to resolve issues and tag them into the CLEM issue
     
     
