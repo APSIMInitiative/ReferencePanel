@@ -41,7 +41,7 @@ Tuesday 21/5/19; 9:30AM AEST
   ALL issues tagging APSIM Initiative Reference Panel
   Models under development - https://github.com/APSIMInitiative/ApsimX/labels/major
   - [Sorghum model](https://github.com/APSIMInitiative/ApsimX/issues/572)
-    Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
+    <br>Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
     - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) <br> No further movement.  With Rob Zyskowski to repond to comments
