@@ -50,6 +50,9 @@ Tuesday 21/5/19; 9:30AM AEST
     - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) - 
     - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069)
     - [CLEM](https://github.com/APSIMInitiative/ApsimX/issues/3575)
+    <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). 
+    <br>**ACTION** (1) @APSIM RP reps to try and run CLEM and provide comment on issue. <br> (2) @sarahcleary to contact CLEM team to resolve issues and tag them into the CLEM issue
+    
     
     - New models requiring review 
       - [AgPasture](https://github.com/APSIMInitiative/ApsimX/issues/3689)
