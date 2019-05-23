@@ -1,8 +1,14 @@
 # 2019-05 Minutes
 
-#### **DRAFT MINUTES - not ready for review**
+### Date
+
+Tuesday 21/5/19; 9:30AM AEST
 
 ## Agenda Item 
+
+### Welcome from @Keith-Pembleton
+
+### 1.1 Welcome/Apologies
 
 ### Members
 
@@ -12,15 +18,6 @@
 
 @sarchontoulis; @EnliWang
 
-
-### Date
-
-Tuesday 21/5/19; 9:30AM AEST
-
-### Welcome from @Keith-Pembleton
-
-### 1.1 Welcome/Apologies
-
 ### 1.2 Review Minutes and Actions
   Attached - [2019-03 Minutes](https://confluence.csiro.au/display/APSIM/2019-03+Minutes)
 <br>Taken as read and correct
@@ -29,11 +26,10 @@ Tuesday 21/5/19; 9:30AM AEST
 
 ### 2.1 Check for new APSIM Major Improvements
   
-   GitHub MAJOR science issues since last RP meeting 
+   **GitHub MAJOR science issues since last RP meeting 
    
-   @Keith-Pembleton noted  new links since the last meeting. These were:
+   @Keith-Pembleton noted  new links since the last meeting. <br>These included:
    Simple Fruit Tree Model https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.
-   
    **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banada model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
    
    CLEM - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
