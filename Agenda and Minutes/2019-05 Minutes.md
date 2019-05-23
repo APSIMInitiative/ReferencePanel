@@ -62,6 +62,8 @@ Tuesday 21/5/19; 9:30AM AEST
     <br>Models/Updates in release since last RP meeting
     - none noted. 
     
+    <br> Hamish questioned the issue that major issues were being identified too late in the process.  Does the process need modificaiton?  It was agreed that the engagement of the AI RP reps earlier on in the GitHub review, will alleviate or at least minimise this issue.  
+    
 ### 2.3  Update from AI SC meeting in March
 
   - Paper "Audit of APSIM papers containing models (and/or improvements) not in an APSIM release"
