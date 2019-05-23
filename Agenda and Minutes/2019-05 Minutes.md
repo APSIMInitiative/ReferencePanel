@@ -33,14 +33,14 @@ Tuesday 21/5/19; 9:30AM AEST
    **Simple Fruit Tree Model** https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.<br>
    **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banada model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
    
-   CLEM - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
+   **CLEM** - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
    
-   AgPasture - https://github.com/APSIMInitiative/ApsimX/issues/3689 - see notes below
+   **AgPasture** - https://github.com/APSIMInitiative/ApsimX/issues/3689 - see notes below
       
 ### 2.2  Updates from RP on models and reviews 
   ALL issues tagging APSIM Initiative Reference Panel
   Models under development - https://github.com/APSIMInitiative/ApsimX/labels/major
-  - Sorghum model - https://github.com/APSIMInitiative/ApsimX/issues/572
+  - [Sorghum model](https://github.com/APSIMInitiative/ApsimX/issues/572)
     - Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
