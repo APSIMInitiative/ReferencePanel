@@ -66,9 +66,12 @@ Tuesday 21/5/19; 9:30AM AEST
     
 ### 2.3  Update from AI SC meeting in March
 
-  - Paper "Audit of APSIM papers containing models (and/or improvements) not in an APSIM release"
-  - Development plan  (updates and days vs hours issue)
-  - Funded Projects - Stock Model - to be reviewed out of session
+  - **Paper "Audit of APSIM papers containing models (and/or improvements) not in an APSIM release"**
+  <br> Noted for this to be a 'live' document.  Useful to keep on top of any issues.  AI SC to 
+  - **Development plan  (updates and days vs hours issue)**
+  <br> 
+  - **Funded Projects - Stock Model - to be reviewed out of session**
+  <br> **ACTION** - Agreed for @sarahcleary to forward to AI SC for approval 
   - Request for report on AI funded software position at each SC meeting
   - Request for update of GitHub process and RP Meeting structure/changes
   - Request for updates on conversations/workshops/activities – arising out of the RP Strategy session related to encouraging cross fertilisation  (and updates/actions arising from these) - including phosphorous developments
