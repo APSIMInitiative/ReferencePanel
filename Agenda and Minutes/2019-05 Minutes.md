@@ -6,9 +6,10 @@ Tuesday 21/5/19; 9:30AM AEST
 
 ## Agenda Item 
 
-### Welcome from @Keith-Pembleton
-
 ### 1.1 Welcome/Apologies
+
+
+### Welcome from @Keith-Pembleton
 
 ### Members
 
@@ -26,10 +27,10 @@ Tuesday 21/5/19; 9:30AM AEST
 
 ### 2.1 Check for new APSIM Major Improvements
   
-   **GitHub MAJOR science issues since last RP meeting 
+   **GitHub MAJOR science issues since last RP meeting** 
    
    @Keith-Pembleton noted  new links since the last meeting. <br>These included:
-   Simple Fruit Tree Model https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.
+   **Simple Fruit Tree Model** https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.<br>
    **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banada model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
    
    CLEM - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
