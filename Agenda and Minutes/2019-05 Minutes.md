@@ -71,13 +71,14 @@ Tuesday 21/5/19; 9:30AM AEST
   - **Funded Projects - Stock Model - to be reviewed out of session**
   <br> **ACTION** Agreed for @sarahcleary to forward Vals' draft to AI SC for approval 
   - Request for report on AI funded software position at each SC meeting
-  <br> **ACTION** 
+  <br> **ACTION** @Keith-Pembleton and @sarahcleary to work with Drew on paper (possible template to be used in future reports)
   - Request for update of GitHub process and RP Meeting structure/changes
-  <br> **ACTION** 
+  <br> **ACTION** @Keith-Pembleton and @sarahcleary to commence work on paper
   - Request for updates on conversations/workshops/activities – arising out of the RP Strategy session related to encouraging cross fertilisation  (and updates/actions arising from these) - including phosphorous developments
-  <br> **ACTION** 
+  <br> **ACTION** @sarahcleary to share email with actions from RP Strategy session.  @Keith-Pembleton to work with @sarahcleary to determine actions for agenda for next RP meeting. 
   - HB and GH working on "next gen documentation"
-  <br> **ACTION** 
+  <br> Hamish provided and update on conversation with Graeme.
+  <br> **ACTION**   Hamish to organise to meet Graeme in person when visiting in August to work through documentation. 
 
 ### 2.4  Update on Actions from the RP Strategy Session - Feb 2019
 
