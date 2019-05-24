@@ -44,8 +44,8 @@ Tuesday 21/5/19; 9:30AM AEST
     <br>Drew Holzworth now working with @jbrider on the Sorghum model.  @jbrider provided an update on progress.
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
-    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) <br> No further movement.  With Rob Zyskowski to repond to comments
-    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069) <br> RP confirmed that model is ready for release.  <br>**ACTION** Comment on GitHub to ask Rogerio to work with Dean.  
+    - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) <br> No further movement.  With Rob Zyskowski to respond to comments
+    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069) <br> RP confirmed that model is ready for release.  <br>**ACTION** @sarahcleary to ask Rogerio to work with Dean.  
     
     - [CLEM](https://github.com/APSIMInitiative/ApsimX/issues/3575)
     <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). Ask the CLEM team to contact Keith directly if they want to work through any of the issues he raisd.
@@ -56,17 +56,18 @@ Tuesday 21/5/19; 9:30AM AEST
       - [AgPasture](https://github.com/APSIMInitiative/ApsimX/issues/3689)
      <br>**ACTION:**  @sarahcleary to contact Matt Harrison to see if he is happy to review.  
        
-    <br>Models/Updates in release since last RP meeting
+    <br>**Models/Updates in release since last RP meeting**
     - none noted. 
     
-    <br> Hamish questioned the issue that major issues were being identified too late in the process.  Does the process need modificaiton?  It was agreed that the engagement of the AI RP reps earlier on in the GitHub review, will alleviate or at least minimise this issue.  
+    **Process comment**
+    <br> Hamish questioned the issue that major issues were being identified too late in the process.  Does the process need modificaiton?  It was agreed that the engagement of the AI RP reps earlier on in the GitHub review, will alleviate or at least minimise this issue. AI RP to see an eye on this issue to see if it continues.  
     
 ### 2.3  Update from AI SC meeting in March
 
   - **Paper "Audit of APSIM papers containing models (and/or improvements) not in an APSIM release"**
-  <br> Noted for this to be a 'live' document.  Useful to keep on top of any issues.  AI SC to 
+  <br> Noted for this to be a 'live' document.  Useful to keep on top of any issues.  AI SC requested that RP raises and discuss issues as they arise.
   - **Development plan  (updates and days vs hours issue)**
-  <br> 
+  <br> **ACTION** @sarahcleary to send out current 18/19 development plan and request updates including all to check people have entered days not hours.  18/19 to be complete by end of financial year.  Look at new format for 19/20 development plan. 
   - **Funded Projects - Stock Model - to be reviewed out of session**
   <br> **ACTION** - Agreed for @sarahcleary to forward to AI SC for approval 
   - Request for report on AI funded software position at each SC meeting
