@@ -95,50 +95,38 @@ AI to consider the following five areas of potential future focus/priority
 3.	Developing multi-functional landscape capability in APSIM.
 4.	Precision agriculture.
 5.	Considering high performance computing needs and potential implications.  Recommendation - First step would be to collate what everyone is doing.  To ensure APSIM Infrastruture can deal with the high perforamnce computer.  Keith to start Github repository
-
 <br> **ACTION**  RP agreed to review each of these areas as part of the review of the Development Plan.  Each home org would provide interest, syngery as part of the process of developing the plan for 19/20.  
 
 
 ### 2.6 Software
 
-Move APSIM Classic into continuous release<br>Comment from Pete deV - For the forseeable future, the Apsim Classic release will remain at 7.10, and links to upgrade to the latest bugfix are available to developers only via the bootleg system on bob. This means registered users don't have a) knowlege of available bugfixes, and b) access to them. I'm proposing some sort of notification system to registered users: some of these bugfixes have serious impact. 
+@peter-devoil led the discussion on the move from APSIM Classic into continuous release and a process to follow.  Note comment from Pete: *For the forseeable future, the Apsim Classic release will remain at 7.10, and links to upgrade to the latest bugfix are available to developers only via the bootleg system on bob. This means registered users don't have a) knowlege of available bugfixes, and b) access to them. I'm proposing some sort of notification system to registered users: some of these bugfixes have serious impact.* 
   
-  This may entail a list of registered users being kept on bob so that when (if?) a bugfix release is built, users are notified.
-  
-  The RP may wish to discuss how this continually changing version should be "referenced".
-
-
-Process - what do we do??
-
+<br> **ACTION** @peter-devoil to work with @hol353 to propose a solution which is likely to involve version and build number.  Once agreed, @sarahcleary to provide a news article and web page for process and referencing. 
 
 
 ## 3.  Training	
   
-  Week commencing 23 March
-  Sarah to start GitHub
+Agreed for week commencing 23 March 2019. 
+<br> **ACTION** @sarahcleary to start GitHub project; map out timeline; input from RP on speakers; structure provided out of session
   
-  Doodle poll
-  Next steps
   
 ## 4. Website/Communications	
   
-  Updates; 
-  Hamish = barley model article
-  <br>Rogerio - outstanding article
+  Updates requested from @sarahcleary
+  Outstanding articles from @HamishBrownPFR - barley model and Rogerio Cichota - white clover
   
+  <br> **ACTION** @sarahcleary to follow up and send reminder to RP 
   
-  new articles<br>Discussion on RG Trial
+  **RG Trial**
+  New articles; better engagement - how to achieve this?
+  <br> **ACTION** RP reps to either invite colleagues to RG or send @sarahcleary email addresses.  RP reps to insert updates in RG when new papers have been published.  
   
 ## 5. Other Business
-
-  Update from Brown, Hamish (Plant and Food) on the "Crop Model word description for APSIM" - stemming from the autodoc generation discussion
   
   [acknowledgement guidelines](https://github.com/APSIMInitiative/ApsimX/issues/3813#issuecomment-488866569)
+  <br> **ACTION** RP agreed to base the recommended acknoweldgemetn on the words provided by @sno036. @hol353 to update APSIMX and @peter-devoil to update APSIM Classic.  @sarahcleary to provide News Article and linked web page. 
   
-  Paper with acknowledgment - Accounting for soil moisture improves prediction of flowering time in chickpea and wheat https://rdcu.be/bCTPE 
-  
-  Development Plan - finialise for 18/19.
-  New version for 19/20
 
 ## Next meeting
 
