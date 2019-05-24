@@ -52,7 +52,7 @@ Tuesday 21/5/19; 9:30AM AEST
     <br>**ACTION** (1) @APSIM RP reps to try and run CLEM and provide comment on issue. <br> (2) @sarahcleary to contact CLEM team to resolve issues and tag them into the CLEM issue
     
     
-    - New models requiring review 
+  - New models requiring review 
       - [AgPasture](https://github.com/APSIMInitiative/ApsimX/issues/3689)
      <br>**ACTION:**  @sarahcleary to contact Matt Harrison to see if he is happy to review.  
        
@@ -69,11 +69,15 @@ Tuesday 21/5/19; 9:30AM AEST
   - **Development plan  (updates and days vs hours issue)**
   <br> **ACTION** @sarahcleary to send out current 18/19 development plan and request updates including all to check people have entered days not hours.  18/19 to be complete by end of financial year.  Look at new format for 19/20 development plan. 
   - **Funded Projects - Stock Model - to be reviewed out of session**
-  <br> **ACTION** - Agreed for @sarahcleary to forward to AI SC for approval 
+  <br> **ACTION** Agreed for @sarahcleary to forward Vals' draft to AI SC for approval 
   - Request for report on AI funded software position at each SC meeting
+  <br> **ACTION** 
   - Request for update of GitHub process and RP Meeting structure/changes
+  <br> **ACTION** 
   - Request for updates on conversations/workshops/activities – arising out of the RP Strategy session related to encouraging cross fertilisation  (and updates/actions arising from these) - including phosphorous developments
+  <br> **ACTION** 
   - HB and GH working on "next gen documentation"
+  <br> **ACTION** 
 
 ### 2.4  Update on Actions from the RP Strategy Session - Feb 2019
 
