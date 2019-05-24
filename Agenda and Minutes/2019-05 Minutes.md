@@ -82,22 +82,21 @@ Tuesday 21/5/19; 9:30AM AEST
 
 ### 2.4  Update on Actions from the RP Strategy Session - Feb 2019
 
- - Work through actions 
+ - As above.  
+ <br> **ACTION**  Outstanding actions to be included in agenda of June 2019 RP Meeting; Completed actions to be reported on.  
   
 ### 2.5  Update on Actions from AI-PFR Workshop - Nov 2018
 
- - Work through actions
+ - Hamish led the discussion as the RP worked through actions from AI-PFR Workshop. Actions were as follows: 
  
-Hamish 
- 
-AI to consider the following five areas of potential future focus/priority at their Steering Committee meeting tomorrow and come back to PFR with a refined view as what future collaborative activity might look like.
+AI to consider the following five areas of potential future focus/priority
 1.	Developing horticultural/perennial tree crop functionality in APSIM.
 2.	Climate change response functionality in APSIM.
 3.	Developing multi-functional landscape capability in APSIM.
 4.	Precision agriculture.
 5.	Considering high performance computing needs and potential implications.  Recommendation - First step would be to collate what everyone is doing.  To ensure APSIM Infrastruture can deal with the high perforamnce computer.  Keith to start Github repository
 
-
+<br> **ACTION**  RP agreed to review each of these areas as part of the review of the Development Plan.  Each home org would provide interest, syngery as part of the process of developing the plan for 19/20.  
 
 
 ### 2.6 Software
