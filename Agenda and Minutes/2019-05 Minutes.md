@@ -115,7 +115,6 @@ Agreed for week commencing 23 March 2019.
   
   Updates requested from @sarahcleary
   Outstanding articles from @HamishBrownPFR - barley model and Rogerio Cichota - white clover
-  
   <br> **ACTION** @sarahcleary to follow up and send reminder to RP 
   
   **RG Trial**
@@ -127,7 +126,6 @@ Agreed for week commencing 23 March 2019.
   [acknowledgement guidelines](https://github.com/APSIMInitiative/ApsimX/issues/3813#issuecomment-488866569)
   <br> **ACTION** RP agreed to base the recommended acknoweldgemetn on the words provided by @sno036. @hol353 to update APSIMX and @peter-devoil to update APSIM Classic.  @sarahcleary to provide News Article and linked web page. 
   
-
 ## Next meeting
 
   Discussion of Date as @Keith-Pembleton is unavailable for next 3 meetings. 
