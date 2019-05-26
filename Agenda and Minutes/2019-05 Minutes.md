@@ -31,7 +31,7 @@ Tuesday 21/5/19; 9:30AM AEST
    
    @Keith-Pembleton noted  new links since the last meeting. <br>These included:
    **Simple Fruit Tree Model** https://github.com/APSIMInitiative/ApsimX/issues/3801 - @HamishBrownPFR noted it was not so simple due to the complexities of the water and N balance.<br>
-   **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banada model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
+   **ACTION** - @Keith-Pembleton to link Hamish with a local consultant who developed a banana model which may have relevance to the Simple Fruit Tree Model.  @HamishBrownPFR might be able to help include banana model into NextGen.
    
    **CLEM** - https://github.com/APSIMInitiative/ApsimX/issues/3575 - see notes below
    
@@ -45,10 +45,10 @@ Tuesday 21/5/19; 9:30AM AEST
     
   - Models currently under review -https://github.com/APSIMInitiative/ApsimX/labels/underreview
     - [Fodder beet model](https://github.com/APSIMInitiative/ApsimX/issues/78) <br> No further movement.  With Rob Zyskowski to respond to comments
-    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069) <br> RP confirmed that model is ready for release.  <br>**ACTION** @sarahcleary to ask Rogerio to work with Dean.  
+    - [White Clover model](https://github.com/APSIMInitiative/ApsimX/issues/2069) <br> RP confirmed that model is ready for release.  <br>**ACTION** @sarahcleary to ask Rogerio to work with Dean to put in release.  
     
     - [CLEM](https://github.com/APSIMInitiative/ApsimX/issues/3575)
-    <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). Ask the CLEM team to contact Keith directly if they want to work through any of the issues he raisd.
+    <br>@Keith-Pembleton discussed issues with running CLEM (as per the GitHub issue). Ask the CLEM team to contact Keith directly if they want to work through any of the issues he raised.
     <br>**ACTION** (1) @APSIM RP reps to try and run CLEM and provide comment on issue. <br> (2) @sarahcleary to contact CLEM team to resolve issues and tag them into the CLEM issue
     
     
@@ -81,9 +81,8 @@ Tuesday 21/5/19; 9:30AM AEST
   <br> **ACTION**   Hamish to organise to meet Graeme in person when visiting in August to work through documentation. 
 
 ### 2.4  Update on Actions from the RP Strategy Session - Feb 2019
-
- - As above.  
- <br> **ACTION**  Outstanding actions to be included in agenda of June 2019 RP Meeting; Completed actions to be reported on.  
+  
+ <br> **ACTION**  Outstanding actions to be included in agenda of June 2019 RP Meeting; Completed actions to be reported on.  @sarahcleary and @Keith-Pembleton to work on offline.
   
 ### 2.5  Update on Actions from AI-PFR Workshop - Nov 2018
 
@@ -113,18 +112,18 @@ Agreed for week commencing 23 March 2019.
   
 ## 4. Website/Communications	
   
-  Updates requested from @sarahcleary
+  Updates requested from @sarahcleary <br>
   Outstanding articles from @HamishBrownPFR - barley model and Rogerio Cichota - white clover
   <br> **ACTION** @sarahcleary to follow up and send reminder to RP 
   
-  **RG Trial**
+  **RG Trial** <br>
   New articles; better engagement - how to achieve this?
   <br> **ACTION** RP reps to either invite colleagues to RG or send @sarahcleary email addresses.  RP reps to insert updates in RG when new papers have been published.  
   
 ## 5. Other Business
   
   [acknowledgement guidelines](https://github.com/APSIMInitiative/ApsimX/issues/3813#issuecomment-488866569)
-  <br> **ACTION** RP agreed to base the recommended acknoweldgemetn on the words provided by @sno036. @hol353 to update APSIMX and @peter-devoil to update APSIM Classic.  @sarahcleary to provide News Article and linked web page. 
+  <br> **ACTION** RP agreed to base the recommended acknoweldgement on the words provided by @sno036. @hol353 to update APSIMX and @peter-devoil to update APSIM Classic.  @sarahcleary to provide News Article and linked web page. 
   
 ## Next meeting
 
