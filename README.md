@@ -17,3 +17,8 @@
 
 [Models Under Development](https://github.com/APSIMInitiative/ApsimX/labels/major)
 
+### Questions
+
+[APSIMX Questions](https://github.com/APSIMInitiative/ApsimX/labels/question)
+
+[APSIM Classic Questions](https://github.com/APSIMInitiative/APSIMClassic/labels/question)
