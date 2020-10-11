@@ -17,6 +17,10 @@
 
 [Models Under Development](https://github.com/APSIMInitiative/ApsimX/labels/major)
 
+[Models Ready for Review](https://github.com/APSIMInitiative/ApsimX/labels/ready%20for%20review)
+
+[Models under review](https://github.com/APSIMInitiative/ApsimX/labels/underreview)
+
 ### Questions
 
 [APSIMX Questions](https://github.com/APSIMInitiative/ApsimX/labels/question)
