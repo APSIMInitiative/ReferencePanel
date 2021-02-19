@@ -33,4 +33,4 @@
 
 ### Outstanding Reference Panel Issues
 
-[Outstanding Actions](https://github.com/APSIMInitiative/ReferencePanel/issues+sort%3Aupdated-desc)
+[Outstanding Actions](https://github.com/APSIMInitiative/ReferencePanel)
