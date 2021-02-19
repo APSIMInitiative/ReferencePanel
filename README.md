@@ -27,9 +27,9 @@
 
 ### Questions
 
-[APSIMX Questions](https://github.com/APSIMInitiative/ApsimX/labels/question+sort%3Aupdated-desc)
+[APSIMX Questions](https://github.com/APSIMInitiative/ApsimX/labels/question)
 
-[APSIM Classic Questions](https://github.com/APSIMInitiative/APSIMClassic/labels/question+sort%3Aupdated-desc)
+[APSIM Classic Questions](https://github.com/APSIMInitiative/APSIMClassic/labels/question)
 
 ### Outstanding Reference Panel Issues
 
